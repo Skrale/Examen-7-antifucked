@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df7c0fddcade1674e96863208bc49eea, type: 3}
+  m_Name: Left arm
+  m_EditorClassIdentifier: 
+  name: Left Arm of the Forbidden One
+  description: A forbidden left arm sealed by magic. Whoever breaks the seal will
+    know infinite power.
+  artwork: {fileID: 21300000, guid: 7028be08dca7dd64499612ceee4fbd16, type: 3}
+  rarity: {fileID: 21300000, guid: 287dc90e6be087648b628a7551ebb6c7, type: 3}
+  manaCost: 1
+  attack: 2
+  health: 3
+  cardId: 6
